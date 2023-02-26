@@ -32,4 +32,6 @@
  
 | Releases | Notes |
 |---------:|------:|
+| 1.0.0 Alpha-1 Pro | Hasn't Dropped Yet |
+| 1.0.0 Alpha-1 Standard | Hasn't Dropped Yet |
 | 1.0.0 Alpha-1 Basic | Hasn't Dropped Yet |
