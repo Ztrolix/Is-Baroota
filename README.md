@@ -30,10 +30,6 @@
 
 ### What are the releases?
  
-| Basic Releases | Notes |
-|---------:|------:|
-| 1.0.0 Alpha-1 | Hasn't Dropped Yet |
-| Standard Releases | Notes |
-| 1.0.0 Alpha-1 | Hasn't Dropped Yet |
-| Pro Releases | Notes |
-| 1.0.0 Alpha-1 | Hasn't Dropped Yet |
+| Releases | Basic Notes | Standard Notes | Pro Notes |
+|---------:|------:|------:|------:|
+| 1.0.0 Alpha-1 | Hasn't Dropped Yet | Hasn't Dropped Yet | Hasn't Dropped Yet |
